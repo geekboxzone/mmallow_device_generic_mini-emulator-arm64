@@ -18,4 +18,4 @@
 # Product-specific compile-time definitions.
 #
 
-include device/generic/armv7-a-neon/BoardConfig.mk
+include device/generic/arm64/BoardConfig.mk
